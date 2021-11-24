@@ -1,0 +1,40 @@
+C:\Users\Mateusz\Desktop\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe.config
+C:\Users\Mateusz\Desktop\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe
+C:\Users\Mateusz\Desktop\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.pdb
+C:\Users\Mateusz\Desktop\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Kółko_I_Krzyżyk.resources
+C:\Users\Mateusz\Desktop\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.exe
+C:\Users\Mateusz\Desktop\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.pdb
+C:\Users\Mateusz\Desktop\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe.config
+C:\Users\Mateusz\Desktop\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe
+C:\Users\Mateusz\Desktop\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.pdb
+C:\Users\Mateusz\Desktop\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Kółko_I_Krzyżyk.resources
+C:\Users\Mateusz\Desktop\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.exe
+C:\Users\Mateusz\Desktop\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.pdb
+C:\Users\Mateusz\Desktop\Nowy folder\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe.config
+C:\Users\Mateusz\Desktop\Nowy folder\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe
+C:\Users\Mateusz\Desktop\Nowy folder\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.pdb
+C:\Users\Mateusz\Desktop\Nowy folder\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csprojAssemblyReference.cache
+C:\Users\Mateusz\Desktop\Nowy folder\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Kółko_I_Krzyżyk.resources
+C:\Users\Mateusz\Desktop\Nowy folder\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Nowy folder\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Nowy folder\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Nowy folder\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.exe
+C:\Users\Mateusz\Desktop\Nowy folder\Mateusz\Projekty\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.pdb
+C:\Users\Mateusz\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe.config
+C:\Users\Mateusz\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe
+C:\Users\Mateusz\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.pdb
+C:\Users\Mateusz\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Kółko_I_Krzyżyk.resources
+C:\Users\Mateusz\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.GenerateResource.cache
+C:\Users\Mateusz\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.exe
+C:\Users\Mateusz\Desktop\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.pdb
